@@ -8,5 +8,7 @@
 </head>
 <body>
   <h1>Github Test</h1>
+  
+  <input type="button" value="Button">
 </body>
 </html>
